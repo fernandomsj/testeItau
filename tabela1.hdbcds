@@ -1,0 +1,6 @@
+entity "tabela1" {
+   "coluna1" : Bigint;
+}
+technical configuration {
+   column store;
+};
